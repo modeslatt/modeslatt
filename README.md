@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋
 
-[portfolio](https://modeslatt.github.io/)
+[PORTFOLIO](https://modeslatt.github.io/)
 
 
 <!--
